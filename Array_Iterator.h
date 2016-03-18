@@ -1,17 +1,3 @@
-
-
-// -*- C++ -*-
-// $Id: Array_Iterator.h 380 2010-02-08 05:10:33Z hillj $
-
-//==============================================================================
-/**
- * Honor Pledge:
- *
- * I pledge that I have neither given nor received any help
- * on this assignment.
- */
-//==============================================================================
-
 #ifndef _ARRAY_ITERATOR_H_
 #define _ARRAY_ITERATOR_H_
 
